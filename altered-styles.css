@@ -1,0 +1,210 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("assets/font/Montserrat-VariableFont_wght.ttf");
+    font-weight: 100 900;
+}
+
+@font-face {
+    font-family: "NunitoSans";
+    src: url("assets/font/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf");
+    font-weight: 100 900;
+}
+
+.sidebar-gutter{
+    background-color: transparent;
+}
+
+a.NO-UNDERLINE:link {
+    text-decoration: none !important;
+}
+
+a.NO-UNDERLINE:visited {
+    text-decoration: none !important;
+}
+
+a.NO-UNDERLINE:hover {
+    text-decoration: none !important;
+}
+
+a.NO-UNDERLINE:active {
+    text-decoration: none !important;
+}
+
+.heading {
+    margin-top: 1.6rem !important;
+}
+
+h6.heading {
+    margin-top: 0rem !important;
+}
+
+.sidebar-section-header { 
+    font-size: 12px;
+}
+
+* {
+    --cornflower-blue: rgb(79, 163, 201); 
+    --color-accent: var(--cornflower-blue);
+    --interactive-accent: var(--cornflower-blue);
+    --nav-indentation-guide-color: var(--cornflower-blue);
+    --nav-indentation-guide-color: var(--cornflower-blue);
+    --background-primary: rgba(30, 30, 30, 0.75);
+    --divider-color-hover: var(--cornflower-blue);
+    font-family: "Montserrat"
+}
+
+/* Resize sidebar colors need to be blue
+   All folders need to show up instead of first one only in left sidebar
+   Header jump focus needs to be blue
+   icon margin issue when sidebars closed
+*/
+body {
+    background-image: url("assets/background.jpg");
+    backdrop-filter: brightness(40%);
+    --color-custom-link-color: var(--cornflower-blue);
+    --color-custom-link-color-secondary: rgb(179, 179, 179);
+    --header-invert: 0%;
+}
+
+body.theme-light {
+    --background-primary: rgba(255, 255, 255, 0.35);
+    --background-secondary: whitesmoke;
+    backdrop-filter: brightness(85%);
+    --color-custom-link-color: rgb(45, 45, 139);
+    --color-custom-link-color-secondary: rgb(39, 38, 38);
+    --header-invert: 85%;
+}
+
+h1.heading > p {
+    font-weight: 850;
+}
+
+h6.heading {
+    font-weight: 550;
+}
+
+h3.heading {
+    font-weight: 600;
+}
+
+p:not(h1.heading > p) {
+    font-family: "NunitoSans";
+    font-weight: 400;
+}
+
+.tree-container.outline-tree .tree-item[data-depth="1"] > .tree-link > .tree-item-contents {
+    font-weight: 650 !important;
+}
+
+.document-container > .markdown-preview-view > .markdown-preview-sizer {
+    background-color: transparent;
+}
+
+.topbar-content:has(> .theme-toggle-container) {
+    overflow: visible;
+}
+
+.sidebar.is-collapsed .topbar-content:has(> .theme-toggle-container) {
+    overflow: clip;
+}
+
+.topbar-content:has(> .theme-toggle-container)::after {
+    content: "";
+    overflow: visible;
+    top: -10px;
+    left: 65px;
+    width: 50px;
+    height: 50px;
+    transition: transform .3s;
+    background: url("assets/astronaut.gif") no-repeat center center;
+    background-size: contain;
+    transition: inherit;
+}
+
+p {
+    font-weight: 500;
+}
+
+body:not(.native-scrollbars) ::-webkit-scrollbar {
+    width: 1.2rem;
+}
+
+.floating-sidebars .sidebar:not(.is-collapsed) .sidebar-container {
+    box-shadow: 0 0 50px 2em rgb(34 10 53 / 30%);
+}
+
+.markdown-rendered h1, h1 {
+    font-size: 2.85em;
+}
+
+.thumbnail {
+    color: var(--color-custom-link-color);
+    text-decoration: underline var(--color-custom-link-color);
+}
+
+.block-language-vid .thumbnail-author {
+    color: var(--link-external-color);
+    text-decoration: underline var(--link-external-color);
+}
+
+.block-language-vid .thumbnail-author:hover {
+    color: var(--link-external-color);
+}
+
+.block-language-vid {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-s);
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 3px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.markdown-preview-sizer > .heading-wrapper > h1:first-of-type {
+    margin-bottom: -15px !important;
+}
+
+span.internal-embed.media-embed.image-embed.is-loaded:first-of-type > img[alt="star-header"] {
+    margin-bottom: -30px !important;
+}
+
+img[alt="star-header"], img[alt="star-footer"] {
+    filter: invert(var(--header-invert));
+}
+
+body .webpage-container > .document-container .heading-collapse-indicator, body .webpage-container > .document-container .heading-collapse-indicator > svg {
+    transform: translateY(18px) !important;
+}
+
+body .webpage-container > .document-container h6 > .heading-collapse-indicator, body .webpage-container > .document-container > h6 > .heading-collapse-indicator > svg {
+    transform: translateY(8px) !important;
+}
+
+div.is-collapsed > * > .heading-collapse-indicator.collapse-icon > svg {
+    transform: rotate(-90deg) translateX(-18px) !important;
+}
+
+figure.grid-item {
+    cursor: default !important;
+}
+
+.sidebar-right.is-collapsed .clickable-icon.sidebar-collapse-icon {
+    left: -4px !important;
+    top: 9px;
+    transition: left .2s ease-in-out, top .2s ease-in-out;
+}
+
+.sidebar-right .clickable-icon.sidebar-collapse-icon {
+    left: var(--sidebar-margin);
+    transition: left .2s ease-in-out, top .2s ease-in-out;
+}
+
+.sidebar-left.is-collapsed .clickable-icon.sidebar-collapse-icon {
+    right: -4px !important;
+    top: 9px;
+    transition: right .2s ease-in-out, top .2s ease-in-out;
+}
+
+.sidebar-left .clickable-icon.sidebar-collapse-icon {
+    right: var(--sidebar-margin);
+    transition: right .2s ease-in-out, top .2s ease-in-out;
+}
