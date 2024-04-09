@@ -43,7 +43,7 @@ h6.heading {
 }
 
 * {
-    --cornflower-blue: rgb(79, 163, 201); 
+    --cornflower-blue: rgb(79, 163, 201);
     --color-accent: var(--cornflower-blue);
     --interactive-accent: var(--cornflower-blue);
     --nav-indentation-guide-color: var(--cornflower-blue);
