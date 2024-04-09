@@ -75,6 +75,22 @@ body.theme-light {
     --header-invert: 85%;
 }
 
+body.theme-light .document-container > .markdown-preview-view {
+    background-color: rgba(255, 255, 255, 0.35);
+}
+
+body.theme-light .callout-title-inner {
+    color: #262626;
+}
+
+body.theme-light .callout-icon.admonition-title-icon > img {
+    filter: brightness(30%);
+}
+
+body.theme-light .callout {
+    background-color: #2626261C;
+}
+
 h1.heading > p {
     font-weight: 850;
 }

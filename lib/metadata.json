@@ -1,6 +1,6 @@
 {
   "vaultName": "Brando in Space",
-  "lastExport": 1712633034325,
+  "lastExport": 1712634047795,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark",
   "useCustomHeadContent": true,
@@ -106,7 +106,7 @@
   ],
   "fileInfo": {
     "Crafts/EVA/Nomai Mask.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 9775,
       "exportedPath": "crafts/eva/nomai-mask.html",
       "dependencies": [
@@ -145,7 +145,7 @@
       ]
     },
     "Crafts/Plush Making/Slugcat Plush.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 954,
       "exportedPath": "crafts/plush-making/slugcat-plush.html",
       "dependencies": [
@@ -156,7 +156,7 @@
       ]
     },
     "Crafts/Index.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 233,
       "exportedPath": "crafts/index.html",
       "dependencies": [
@@ -164,7 +164,7 @@
       ]
     },
     "NASA/RSX 2023-2024/Manufacturing.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 172,
       "exportedPath": "nasa/rsx-2023-2024/manufacturing.html",
       "dependencies": [
@@ -173,7 +173,7 @@
       ]
     },
     "NASA/Index.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 557,
       "exportedPath": "nasa/index.html",
       "dependencies": [
@@ -182,7 +182,7 @@
       ]
     },
     "Personal Projects/Want to Do/Smart Watch.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 1263,
       "exportedPath": "personal-projects/want-to-do/smart-watch.html",
       "dependencies": [
@@ -191,7 +191,7 @@
       ]
     },
     "Personal Projects/Index.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 254,
       "exportedPath": "personal-projects/index.html",
       "dependencies": [
@@ -199,7 +199,7 @@
       ]
     },
     "Index.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 2622,
       "exportedPath": "index.html",
       "dependencies": [
@@ -209,7 +209,7 @@
       ]
     },
     "Socials.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 1406,
       "exportedPath": "socials.html",
       "dependencies": [
@@ -218,7 +218,7 @@
       ]
     },
     "This Site.md": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 2779,
       "exportedPath": "this-site.html",
       "dependencies": [
@@ -227,211 +227,211 @@
       ]
     },
     "lib/media/stars-woo.png": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 13690,
       "exportedPath": "lib/media/stars-woo.png",
       "dependencies": []
     },
     "lib/media/outer-wilds-splash.webp": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 28706,
       "exportedPath": "lib/media/outer-wilds-splash.webp",
       "dependencies": []
     },
     "lib/media/paper-cutouts.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 325846,
       "exportedPath": "lib/media/paper-cutouts.jpg",
       "dependencies": []
     },
     "lib/media/step-1.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 144301,
       "exportedPath": "lib/media/step-1.jpg",
       "dependencies": []
     },
     "lib/media/step-2.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 136450,
       "exportedPath": "lib/media/step-2.jpg",
       "dependencies": []
     },
     "lib/media/step-3.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 102235,
       "exportedPath": "lib/media/step-3.jpg",
       "dependencies": []
     },
     "lib/media/eye-sockets.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 198182,
       "exportedPath": "lib/media/eye-sockets.jpg",
       "dependencies": []
     },
     "lib/media/even-smaller-eye-holes.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 206045,
       "exportedPath": "lib/media/even-smaller-eye-holes.jpg",
       "dependencies": []
     },
     "lib/media/solanum-does-a-little-spin.gif": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 1078186,
       "exportedPath": "lib/media/solanum-does-a-little-spin.gif",
       "dependencies": []
     },
     "lib/media/so-many-pieces.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 80115,
       "exportedPath": "lib/media/so-many-pieces.jpg",
       "dependencies": []
     },
     "lib/media/horns-1.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 307960,
       "exportedPath": "lib/media/horns-1.jpg",
       "dependencies": []
     },
     "lib/media/horns-2.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 261064,
       "exportedPath": "lib/media/horns-2.jpg",
       "dependencies": []
     },
     "lib/media/half-finished.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 138438,
       "exportedPath": "lib/media/half-finished.jpg",
       "dependencies": []
     },
     "lib/media/the-whole-shebang.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 170154,
       "exportedPath": "lib/media/the-whole-shebang.jpg",
       "dependencies": []
     },
     "lib/media/got-them-side-walls.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 213944,
       "exportedPath": "lib/media/got-them-side-walls.jpg",
       "dependencies": []
     },
     "lib/media/its-on-my-face.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 153468,
       "exportedPath": "lib/media/its-on-my-face.jpg",
       "dependencies": []
     },
     "lib/media/unsealed-vs-sealed.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 480498,
       "exportedPath": "lib/media/unsealed-vs-sealed.jpg",
       "dependencies": []
     },
     "lib/media/comparison-1.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 227953,
       "exportedPath": "lib/media/comparison-1.jpg",
       "dependencies": []
     },
     "lib/media/comparison-2.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 181672,
       "exportedPath": "lib/media/comparison-2.jpg",
       "dependencies": []
     },
     "lib/media/heat-seal-my-beloved.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 222131,
       "exportedPath": "lib/media/heat-seal-my-beloved.jpg",
       "dependencies": []
     },
     "lib/media/plasti-dipped.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 201532,
       "exportedPath": "lib/media/plasti-dipped.jpg",
       "dependencies": []
     },
     "lib/media/primered.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 224316,
       "exportedPath": "lib/media/primered.jpg",
       "dependencies": []
     },
     "lib/media/painted-1.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 288416,
       "exportedPath": "lib/media/painted-1.jpg",
       "dependencies": []
     },
     "lib/media/painted-2.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 129608,
       "exportedPath": "lib/media/painted-2.jpg",
       "dependencies": []
     },
     "lib/media/phaestoz-with-punished-props.png": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 4398127,
       "exportedPath": "lib/media/phaestoz-with-punished-props.png",
       "dependencies": []
     },
     "lib/media/paint-1.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 145341,
       "exportedPath": "lib/media/paint-1.jpg",
       "dependencies": []
     },
     "lib/media/paint-2.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 152512,
       "exportedPath": "lib/media/paint-2.jpg",
       "dependencies": []
     },
     "lib/media/paint-3.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 278712,
       "exportedPath": "lib/media/paint-3.jpg",
       "dependencies": []
     },
     "lib/media/result-1.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 135752,
       "exportedPath": "lib/media/result-1.jpg",
       "dependencies": []
     },
     "lib/media/result-2.jpg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 434103,
       "exportedPath": "lib/media/result-2.jpg",
       "dependencies": []
     },
     "lib/media/solanum-is-just-resting.png": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 198192,
       "exportedPath": "lib/media/solanum-is-just-resting.png",
       "dependencies": []
     },
     "lib/media/slugwalk.gif": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 3947,
       "exportedPath": "lib/media/slugwalk.gif",
       "dependencies": []
     },
     "lib/media/sanshee_rain-world_slugpup-plush_survivor_front.webp": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 18296,
       "exportedPath": "lib/media/sanshee_rain-world_slugpup-plush_survivor_front.webp",
       "dependencies": []
     },
     "attachments/misc/stars-woo.png": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 13690,
       "exportedPath": "attachments/misc/stars-woo.png",
       "dependencies": []
     },
     "attachments/index/me-wow-but-aesthetic.png": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 287873,
       "exportedPath": "attachments/index/me-wow-but-aesthetic.png",
       "dependencies": []
@@ -443,97 +443,97 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 14591,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -569,13 +569,13 @@
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
@@ -587,43 +587,43 @@
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 157786,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 283,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 2615,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 2652,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 499,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1712633034325,
+      "modifiedTime": 1712634047795,
       "sourceSize": 27722,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
